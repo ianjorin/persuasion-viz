@@ -2,7 +2,7 @@ import embed from 'vega-embed';
 
 const espec1 = ({
 	"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-	"data": {"url": "../../data/explosions.csv"},
+	"data": {"url": "https://docs.google.com/spreadsheets/d/1CDDmzmPywWEpv8xMB9Mip9R_aaONJDpujxQe_knc6WI/gviz/tq?tqx=out:csv"},
 	"width":400,
 	"height":400,
 	// "data": {
